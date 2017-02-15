@@ -5,6 +5,8 @@ public class Animal {
 	//comment
 	private boolean isVeg;
 	
+	
+	
 	private String eats;
 	private String name;
 	
