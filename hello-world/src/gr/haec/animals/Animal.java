@@ -4,7 +4,7 @@ public class Animal {
 	
 	//comment
 	private boolean isVeg;
-	//my nervs
+	
 	private String eats;
 	private String name;
 	
