@@ -2,7 +2,6 @@ package gr.haec.animals;
 
 public class Animal {
 	
-	//dsad
 	private boolean isVeg;
 	//my nervs
 	private String eats;
